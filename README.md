@@ -1,6 +1,8 @@
-# auth
+# Flutter Auth - Sign In & Sign Up UI with Clean Architecture
 
-A new Flutter project.
+![login1](https://github.com/user-attachments/assets/2bf7711f-0752-43eb-b5c3-d71dd106e888)
+
+![register1](https://github.com/user-attachments/assets/fb2e440b-c7ac-4fea-ac2a-188edc1c7fbf)
 
 ## Getting Started
 
